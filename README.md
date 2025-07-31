@@ -1,2 +1,4 @@
 # Juego-amigo-secreto
-Juego del amigo secreto
+
+
+Estado del proyecto: Finalizado.
